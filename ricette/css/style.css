@@ -33,3 +33,8 @@ p {
 .ingredienti-menu > ul {
     display: inline-block;
 }
+
+p, ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
