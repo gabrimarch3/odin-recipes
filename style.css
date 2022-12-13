@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+}
+
+.immagine-principale {
+    text-align: center;
+}
+
+ /*method to center the <ul> points with the text*/
+
+.lista-menu {
+    text-align: center;
+    font-size: 28px;
+}
+                                 
+.lista-menu > ul {
+    display: inline-block;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
